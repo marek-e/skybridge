@@ -1,0 +1,23 @@
+skills/chatgpt-app-builder/references/csp.md
+  s_a5aa62c2135eac::t_9e3cb3bbed4441 3,13,15,17-24
+skills/chatgpt-app-builder/references/open-external-links.md
+  s_a5aa62c2135eac::t_970a7bf14b75b1 56,58,60-64
+skills/chatgpt-app-builder/references/publish.md
+  s_a5aa62c2135eac::t_54429317cf9e76 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "4d12deecab72267ec3c0e22f04884e7c5c831fa6",
+  "prompts": {},
+  "sessions": {
+    "s_a5aa62c2135eac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5ea30b19-c2d7-44ba-9418-94e96a75b668",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Marek Elmayan <melmayan.dev@gmail.com>"
+    }
+  }
+}
