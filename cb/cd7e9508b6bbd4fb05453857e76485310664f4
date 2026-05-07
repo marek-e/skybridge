@@ -1,0 +1,20 @@
+packages/devtools/src/main.tsx
+  s_ecafb5cd74af31::t_e3e002c92b750b 7
+  s_ecafb5cd74af31::t_378db88012621b 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "cbcd7e9508b6bbd4fb05453857e76485310664f4",
+  "prompts": {},
+  "sessions": {
+    "s_ecafb5cd74af31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "67a14b5c-8b44-4b7d-a019-ce86db6212f9",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Marek Elmayan <melmayan.dev@gmail.com>"
+    }
+  }
+}
