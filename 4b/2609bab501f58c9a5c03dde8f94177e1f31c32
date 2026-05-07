@@ -1,0 +1,20 @@
+packages/devtools/src/lib/theme.ts
+  s_ecafb5cd74af31::t_aba19446298374 1-18,22-39
+  s_ecafb5cd74af31::t_9bd5584d3a9ba1 19-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "4b2609bab501f58c9a5c03dde8f94177e1f31c32",
+  "prompts": {},
+  "sessions": {
+    "s_ecafb5cd74af31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "67a14b5c-8b44-4b7d-a019-ce86db6212f9",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Marek Elmayan <melmayan.dev@gmail.com>"
+    }
+  }
+}
